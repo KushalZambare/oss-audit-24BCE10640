@@ -64,7 +64,7 @@ Linux system.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/oss-audit-[rollnumber].git
+git clone https://github.com/your-username/oss-audit-24BCE10640.git
 cd oss_audit_24BCE10640
 ```
 
